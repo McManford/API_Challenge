@@ -27,7 +27,7 @@ cd API_Challenge
 meteor npm install --save fuzzy-matching
 ```
 
-Run it, by default 3000:
+Run it, by default it runs on port 3000:
 
 ```bash
 meteor run
